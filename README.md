@@ -1,0 +1,4 @@
+- 👋 oi,meu nome é @torinhadobololo
+- 👀 meu imail é @vitoria.lopesde.matos@escola.pr.gov.br
+- 🌱estou interessada em aprender a programar novas linguagens.
+- eu estou aprendendo a programar recentemente a linguagem de JavaScrip e Scratch
